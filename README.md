@@ -1,5 +1,1 @@
-<img width="100%" src="https://cdn.discordapp.com/attachments/787501942065725440/806925762253815828/sp-banner-slim.png"/>
-
-Currently all of my repositories are private.
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=checkerduo&show_icons=true&theme=radical)]()
+![Metrics](https://metrics.lecoq.io/checkerduo?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
